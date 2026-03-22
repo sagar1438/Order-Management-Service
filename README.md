@@ -1,5 +1,4 @@
 ##Order Management REST API
-Overview
 
 This project is a backend Order Management REST API built using Java and Spring Boot.
 It provides CRUD operations for clients, products, orders, and order items, demonstrating clean REST API design, layered architecture, and relational data modeling.
