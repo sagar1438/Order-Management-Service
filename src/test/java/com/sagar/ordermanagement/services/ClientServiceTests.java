@@ -26,8 +26,8 @@ public class ClientServiceTests {
 
     templateClient = new Client();
     templateClient.setId(1L);
-    templateClient.setName("sagar");
-    templateClient.setEmail("sagarpanwar2020@gmail.com");
+    templateClient.setName("Sagar");
+    templateClient.setEmail("sagarpanwar202@gmail.com");
 }
 
 
