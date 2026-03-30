@@ -106,7 +106,7 @@ VALUES (1, 2999.0, 1, 1);
 INSERT INTO tb_order_item (quantity, price, product_id, order_id)
 VALUES (2, 499.9, 5, 1);
 INSERT INTO tb_order_item (quantity, price, product_id, order_id)
-VALUES (1, 7800.0, 2, 2);
+VALUES (1, 7800.0, 2, 4);
 INSERT INTO tb_order_item (quantity, price, product_id, order_id)
 VALUES (1, 999.0, 4, 2);
 INSERT INTO tb_order_item (quantity, price, product_id, order_id)
