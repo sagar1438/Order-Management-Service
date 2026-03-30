@@ -41,7 +41,6 @@ public class Order {
         for (OrderItem item : items) {
             sum += item.getSubTotal();
         }
-        // TODO: Adicionar reference method em padrão stream.
         return sum;
     }
 
