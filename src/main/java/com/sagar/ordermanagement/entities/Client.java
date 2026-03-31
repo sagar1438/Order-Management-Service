@@ -1,6 +1,6 @@
 package com.sagar.ordermanagement
 .entities;
-
+ 
 import com.sagar.ordermanagement
 .dto.requests.ClientRequestDTO;
 import javax.persistence.*;
