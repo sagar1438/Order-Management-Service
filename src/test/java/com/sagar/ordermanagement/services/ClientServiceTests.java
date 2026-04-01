@@ -30,7 +30,6 @@ public class ClientServiceTests {
     templateClient.setEmail("sagarpanwar202@gmail.com");
 }
 
-
     private void assertClientsAreEqual(ClientResponseDTO actual, ClientResponseDTO expected) {
         assertAll(() -> actual.getEmail().equals(expected.getEmail()),
                 () -> actual.getName().equals(expected.getName()),
