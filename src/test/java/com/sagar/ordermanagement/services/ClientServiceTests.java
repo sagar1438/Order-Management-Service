@@ -42,7 +42,7 @@ public class ClientServiceTests {
         var actual = service.findById(1L);
         Client expectedClient = new Client();
         expectedClient.setId(1L);
-        expectedClient.setName("sagar");
+        expectedClient.setName("Sagar");
         expectedClient.setEmail("sagarpanwar202@gmail.com");
         var expected = new ClientResponseDTO(expectedClient);
 
